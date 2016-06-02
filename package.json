@@ -41,7 +41,7 @@
       "email": "robert@broofa.com"
     }
   ],
-  "name": "node-uuid",
+  "name": "superhuman-node-uuid",
   "optionalDependencies": {},
   "repository": {
     "type": "git",
